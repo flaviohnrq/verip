@@ -1,5 +1,4 @@
 import requests, json, time
-import pandas as pd
 import sys
 from geopy.geocoders import Nominatim #lib para buscar endereço por latitudexlongitude
 
