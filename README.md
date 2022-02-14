@@ -1,4 +1,4 @@
-# verip
+# verip (somente um treino)
 Simples APP que busca a geolocalização do IP
 
 fiz um script executavel que chama meu app (verIp.py), e criei um link dele na pasta /bin
