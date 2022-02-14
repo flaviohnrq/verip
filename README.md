@@ -16,4 +16,4 @@ inclusive uso uma função já pronta e simples que foi coletada em forum de dis
 A maioria das excessões de erro foram adicionadas, como por exemplo verificação de IP válido.
 ...porém o app ainda contém bugs e vai simplesmente travar ocasionalmente.
 
--mais do que tudo, isto é só um aquecimento de programação e também um aprendizado da plataforma git / github
+***Mais do que tudo, isto é só um aquecimento em programação e também um aprendizado da plataforma git / github
